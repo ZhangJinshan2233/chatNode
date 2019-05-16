@@ -1,0 +1,12 @@
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+log.txt
+.vscode/
+npm-debug.log*
+.versions/
+node_modules/
+tmp/
+temp/
+$RECYCLE.BIN/
