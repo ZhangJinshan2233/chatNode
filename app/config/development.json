@@ -4,7 +4,7 @@
     "sessionSecret":"catscanfly",
     "fb":{
         "clientID":"1113432772176750",
-        "clientSecret":"7048118b1b5540a778edc2496a0815af",
+        "clientSecret":"7048118b1b5540a778edc2496a081",
         "callbackURL":"//localhost:3000/auth/facebook/callback",
         "profileFields":["id", "displayName", "photos"]
     }
